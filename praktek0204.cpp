@@ -9,4 +9,6 @@ int main(){
 	cin>>jbp;
 	cout<<""<<endl;
 	cout<<""<<endl;
+	cout<<"luas rumah : "<<lr;cout<<" m2"<<endl;
+	cout<<"luas 1 box parket : "<<p;cout<<" m2"<<endl;
 }

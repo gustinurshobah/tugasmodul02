@@ -14,4 +14,11 @@ int main(){
 	a=p*jbp;
 	b+lr/a;
 	jbph=b*105/100;
+	cout<<"jumlah box parket : "<<jbph<<endl;
+	bp=jbph*500;
+	cout<<"biaya parket(Rp) : "<<bp<<endl;
+	bpp=lr*20;
+	cout<<"Biaya pasang (Rp) : "<<bpp<<endl;
+	tb=bp+bpp;
+	cout<<"total biaya (Rp) : "<<tb<<endl;
 }

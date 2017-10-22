@@ -11,4 +11,7 @@ int main(){
 	cout<<""<<endl;
 	cout<<"luas rumah : "<<lr;cout<<" m2"<<endl;
 	cout<<"luas 1 box parket : "<<p;cout<<" m2"<<endl;
+	a=p*jbp;
+	b+lr/a;
+	jbph=b*105/100;
 }
